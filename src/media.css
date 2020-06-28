@@ -1,0 +1,118 @@
+/* for 980px or less */
+@media screen and (max-width: 980px){
+
+	.prj-btn li {
+		margin-top:7px;
+		margin-left:0px;
+	}
+	.career {
+		margin:10px 27px;
+		padding:10px 5px;
+		width:auto;
+	}
+	.career a{
+		margin-bottom:10px;
+	}
+	.hovereffect
+	{
+		margin:10px 27px;
+	}
+	#services{
+		height:auto;
+	}
+	.hovereffect a.info {
+		padding:23px 63px;
+	}
+	#clients
+	{
+		margin:20px 29px;
+	}
+
+
+}
+
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+
+	#banner h1 {
+		font-size: 45px;
+	}
+	#banner h5 {
+		font-size: 30px;
+	}
+	#clients
+	{
+		height:auto;
+	}
+	.prj-btn li {
+		margin-top:7px;
+		display:block;
+	}
+	.career {
+		margin:10px auto;
+	}
+	.career a{
+		margin-left:-20px;
+	}
+	.hovereffect
+	{
+		margin:10px 99px;
+	}
+	
+	
+}
+
+
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+
+
+	.navbar-brand {
+		float:none;
+	}
+	#banner h1 {
+		font-size: 35px;
+	}
+	#banner h5 {
+		font-size: 20px;
+	}
+	.btn2
+	{
+		margin-top:20px;
+		margin-left:-20px;
+	}
+	#services
+	{
+		height:auto;
+	}
+	
+	#about-banner h1 {
+		font-size: 29px;
+	}
+	.breadcrumb{
+		font-size:14px;
+	}
+	#clients
+	{
+		height:auto;
+	}
+	.career {
+		margin:10px auto;
+	}
+	.career a{
+		margin-left:0px;
+	} 
+	.prj-btn li {
+		margin-top:7px;
+		display:block;
+	}
+	.hovereffect a.info {
+		padding:48px 100px;
+	}
+	.hovereffect {
+		margin: 10px 0px;
+	}
+	
+	
+	
+}
